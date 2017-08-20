@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/amogh/AndroidStudioProjects/MiniProCalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/amogh/AndroidStudioProjects/MiniProCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_3094a87999d7d8ec5a69488bbe85cb40473247dd/classes.dex" />
+    </item>
+    <item
+        jar="/home/amogh/AndroidStudioProjects/MiniProCalc/app/libs/mobilecloud.handin-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="/home/amogh/AndroidStudioProjects/MiniProCalc/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_bc9fa29aa79778f2542aa344145af83e69e843bb/classes.dex" />
+    </item>
+    <item
+        jar="/home/amogh/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/home/amogh/AndroidStudioProjects/MiniProCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.3.2_a9e1195a0ebdd75f077d4659e50839bed677fca2/classes.dex" />
+    </item>
+    <item
+        jar="/home/amogh/AndroidStudioProjects/MiniProCalc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/amogh/AndroidStudioProjects/MiniProCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_92fb2138eb3b237d61b253bf483b2e5391823201/classes.dex" />
+    </item>
+    <item
+        jar="/home/amogh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/amogh/AndroidStudioProjects/MiniProCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_f03ed74f6b12ba74a9aaf7dc2988145e482a48d5/classes.dex" />
+    </item>
+    <item
+        jar="/home/amogh/AndroidStudioProjects/MiniProCalc/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/amogh/AndroidStudioProjects/MiniProCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_65252ae84fc7ebd0461812fec58df884948ea6b8/classes.dex" />
+    </item>
+    <item
+        jar="/home/amogh/AndroidStudioProjects/MiniProCalc/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/amogh/AndroidStudioProjects/MiniProCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_1e61d461f513bc2b7ae3b280e7475f2fc254bfb7/classes.dex" />
+    </item>
+    <item
+        jar="/home/amogh/android-studio/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="/home/amogh/AndroidStudioProjects/MiniProCalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_5d391937a8a5c1015c7aa57622d8ce7a027905c1/classes.dex" />
+    </item>
+
+</items>
